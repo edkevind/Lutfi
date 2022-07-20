@@ -1,0 +1,6 @@
+org\example\RamenReviewedByCountryMapper.class
+org\example\ramenbrand\RamenBrandVarietyReducer.class
+org\example\App.class
+org\example\ramenbrand\App.class
+org\example\RamenReviewedByCountryReducer.class
+org\example\ramenbrand\RamenBrandVarietyMapper.class
